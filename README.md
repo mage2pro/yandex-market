@@ -1,4 +1,4 @@
-The extension integrates your Magento 2 store with the **[Яндекс.Маркет](https://market.yandex.ru)** marketplace (Russia).  
+The extension integrates your Magento 2 based webstore with the **[Яндекс.Маркет](https://market.yandex.ru)** marketplace (Russia).  
 Этот модуль позволит Вашему работающему на Magento 2 интернет-магазину обмениваться данными (синхронизироваться) с сервисом [Яндекс.Маркет](https://market.yandex.ru).  
 
 
